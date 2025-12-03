@@ -4,7 +4,7 @@ import json
 # --- Konfiguratsiya va Ma'lumotlarni Yuklash ---
 st.set_page_config(layout="wide", page_title="Shaxsiy Lug'at Ustasi 📚")
 
-DATA_FILE = "name.json"
+DATA_FILE = "vocab_1.json"
 
 
 @st.cache_resource
@@ -159,4 +159,5 @@ remaining_count = total_words - (known_count + unknown_count)
 st.sidebar.markdown(f"*Jami so'zlar: **{total_words}***")
 st.sidebar.markdown(f"*Bilinadi: **{known_count}**")
 st.sidebar.markdown(f"*Bilinmaydi: **{unknown_count}**")
+
 st.sidebar.markdown(f"*Tekshirilmagan: **{remaining_count}**")
