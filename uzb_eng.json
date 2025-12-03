@@ -1,0 +1,308 @@
+{
+  "OTLAR (NOUNS)": [
+    {
+      "word": "Ayblov",
+      "translation": "Accusation",
+      "example": "U o'g'irlik haqidagi yolg'on **ayblov**ni inkor etdi."
+    },
+    {
+      "word": "Yordam, Ko‘mak",
+      "translation": "Assistance",
+      "example": "Agar sizga texnik **yordam** kerak bo'lsa, biz bilan bog'laning."
+    },
+    {
+      "word": "Katta Yutuq",
+      "translation": "Breakthrough",
+      "example": "Olimlar saraton kasalligini tadqiq qilishda **katta yutuq**ga erishdilar."
+    },
+    {
+      "word": "Taqqoslash",
+      "translation": "Comparison",
+      "example": "Ikki telefonni **taqqoslash** natijasida ko'plab o'xshashliklar aniqlandi."
+    },
+    {
+      "word": "Mojaro",
+      "translation": "Conflict",
+      "example": "Ular masalani xotirjam muhokama qilib, **mojaro**dan qochishga harakat qilishdi."
+    },
+    {
+      "word": "Pasayish",
+      "translation": "Decline",
+      "example": "Bosma gazetalarni sotishda keskin **pasayish** kuzatilmoqda."
+    },
+    {
+      "word": "Falokat",
+      "translation": "Disaster",
+      "example": "Neftning to'kilishi ekologik **falokat** edi."
+    },
+    {
+      "word": "Ruxsat",
+      "translation": "Permission",
+      "example": "Muzey ichida suratga olish uchun yozma **ruxsat** kerak."
+    },
+    {
+      "word": "Reaksiya",
+      "translation": "Reaction",
+      "example": "Uning xabarga birinchi **reaksiya**si hayrat bo'ldi."
+    },
+    {
+      "word": "Strategiya",
+      "translation": "Strategy",
+      "example": "Kompaniya Osiyo bozoriga kirish uchun yangi **strategiya** ishlab chiqdi."
+    },
+    {
+      "word": "Yutuq",
+      "translation": "Achievement",
+      "example": "Marafonga yakun yasash u uchun katta **yutuq** bo'ldi."
+    },
+    {
+      "word": "Muqobillar",
+      "translation": "Alternatives",
+      "example": "Avtobus ish tashlashidan beri biz sayohat **muqobillar**ini qidiryapmiz."
+    },
+    {
+      "word": "Urinish",
+      "translation": "Attempt",
+      "example": "U yo'lboshchisiz tog'ga chiqishga **urinish** qildi."
+    },
+    {
+      "word": "Hokimiyat, Vakolat",
+      "translation": "Authority",
+      "example": "O'qituvchida qo'shimcha uy vazifasi berishga **vakolat** bor edi."
+    },
+    {
+      "word": "Sharoitlar",
+      "translation": "Circumstances",
+      "example": "Hozirgi **sharoitlar**da biz chet elga chiqa olmaymiz."
+    },
+    {
+      "word": "Majburiyat, Sadoqat",
+      "translation": "Commitment",
+      "example": "Nikoh har ikki sherikdan jiddiy **majburiyat** talab qiladi."
+    },
+    {
+      "word": "Shikoyat",
+      "translation": "Complaint",
+      "example": "Biz qo'shnilardan shovqin haqida **shikoyat** oldik."
+    },
+    {
+      "word": "Hissa, Qo‘shiq",
+      "translation": "Contribution",
+      "example": "Har bir a'zo yakuniy hisobotga qimmatli **hissa** qo'shdi."
+    },
+    {
+      "word": "Dilemma, Muammo",
+      "translation": "Dilemma",
+      "example": "U haqiqatni aytish borasida axloqiy **dilemma**ga duch keldi."
+    },
+    {
+      "word": "Taqsimot",
+      "translation": "Distribution",
+      "example": "Oziq-ovqat yordamining **taqsimot**i mahalliy xayriya tashkiloti tomonidan boshqarildi."
+    }
+  ],
+  "FE'LLAR (VERBS)": [
+    {
+      "word": "Tan olmoq",
+      "translation": "Acknowledge",
+      "example": "Menejer o'z jamoasining mehnatini **tan olmoq**i kerak."
+    },
+    {
+      "word": "Ma'qullamoq",
+      "translation": "Approve",
+      "example": "Kengash yangi byudjet rejasini **ma'qullamoq** uchun ovoz berdi."
+    },
+    {
+      "word": "Qo‘lga olmoq, Egallamoq",
+      "translation": "Capture",
+      "example": "Fotosuratchi o'sha lahzani mukammal **qo'lga olmoq**ga muvaffaq bo'ldi."
+    },
+    {
+      "word": "Qulamoq",
+      "translation": "Collapse",
+      "example": "Eski ko'prik kuchli yomg'ir ostida **qulamoq**i mumkin."
+    },
+    {
+      "word": "Hissa qo‘shmoq",
+      "translation": "Contribute",
+      "example": "Hamma joyni toza saqlashga **hissa qo'shmoq**i kerak."
+    },
+    {
+      "word": "Kamaymoq",
+      "translation": "Decrease",
+      "example": "Kompaniya energiya iste'molini **kamaymoq**ni rejalashtirmoqda."
+    },
+    {
+      "word": "Duch kelmoq",
+      "translation": "Encounter",
+      "example": "Biz tirbandlik tufayli ba'zi kechikishlarga **duch kelmoq**miz mumkin."
+    },
+    {
+      "word": "Aniqlamoq, Tanimoq",
+      "translation": "Identify",
+      "example": "Politsiya sirli ob'ektni **aniqlamoq**ga qodir bo'lmadi."
+    },
+    {
+      "word": "E'tiroz bildirmoq",
+      "translation": "Object",
+      "example": "Men sizning bu masalani hal qilishingizga **e'tiroz bildirmoq**im kerak."
+    },
+    {
+      "word": "Qisqacha bayon qilmoq",
+      "translation": "Summarize",
+      "example": "Iltimos, bobning asosiy fikrlarini **qisqacha bayon qilmoq**ingiz mumkinmi?"
+    },
+    {
+      "word": "Taxmin qilmoq",
+      "translation": "Assume",
+      "example": "Faktlarga ega bo'lmaguningizcha, ularni aybdor deb **taxmin qilmoq**mang."
+    },
+    {
+      "word": "Ta’sir qilmoq",
+      "translation": "Affect",
+      "example": "Ob-havo bizning sayohat rejalarimizga **ta'sir qilmoq**adi."
+    },
+    {
+      "word": "Saqlamoq, Davom ettirmoq",
+      "translation": "Maintain",
+      "example": "Sayohat paytida sog'lom ovqatlanishni **saqlamoq** qiyin."
+    },
+    {
+      "word": "Talab qilmoq",
+      "translation": "Require",
+      "example": "Bu ish kuchli kompyuter ko'nikmalarini **talab qilmoq**adi."
+    },
+    {
+      "word": "Ko‘ndirmoq",
+      "translation": "Persuade",
+      "example": "U fikrini o'zgartirishga **ko'ndirmoq**ga harakat qildi."
+    },
+    {
+      "word": "Kengaymoq",
+      "translation": "Expand",
+      "example": "Kompaniya o'z biznesini Yevropaga **kengaymoq**ni rejalashtirmoqda."
+    },
+    {
+      "word": "Rad etmoq",
+      "translation": "Reject",
+      "example": "Qo'mita taklifni darhol **rad etmoq**ga qaror qildi."
+    },
+    {
+      "word": "Baholamoq",
+      "translation": "Evaluate",
+      "example": "Loyihani boshlashdan oldin biz xavflarni **baholamoq**imiz kerak."
+    },
+    {
+      "word": "Yaratmoq, Hosil qilmoq",
+      "translation": "Generate",
+      "example": "Shamol elektr stansiyalari butun shahar uchun yetarli quvvat **yaratmoq**adi."
+    },
+    {
+      "word": "Boshqarmoq, Nazorat qilmoq",
+      "translation": "Regulate",
+      "example": "Yangi qonunlar shaxsiy ma'lumotlardan onlayn foydalanishni **boshqarmoq**adi."
+    }
+  ],
+  "SIFATLAR (ADJECTIVES)": [
+    {
+      "word": "Maqsadli, Katta Orzuli",
+      "translation": "Ambitious",
+      "example": "U muvaffaqiyatga erishishga intiluvchan **maqsadli** talaba."
+    },
+    {
+      "word": "Foydali",
+      "translation": "Beneficial",
+      "example": "Kundalik jismoniy mashqlar sizning sog'ligingiz uchun **foydali**dir."
+    },
+    {
+      "word": "Murakkab",
+      "translation": "Complex",
+      "example": "Bu ehtiyotkorlik bilan o'ylashni talab qiladigan juda **murakkab** muammo."
+    },
+    {
+      "word": "Hursand, Mamnun",
+      "translation": "Delighted",
+      "example": "Ular yaxshi xabarni eshitib **hursand** bo'lishdi."
+    },
+    {
+      "word": "Juda Katta",
+      "translation": "Enormous",
+      "example": "Muzey qadimiy artefaktlarning **juda katta** kolleksiyasini o'z ichiga olgan."
+    },
+    {
+      "word": "Ishonib bo‘lmaydigan",
+      "translation": "Incredible",
+      "example": "Tog' cho'qqisidan ko'rinish **ishonib bo'lmaydigan** edi."
+    },
+    {
+      "word": "Mantiqiy",
+      "translation": "Logical",
+      "example": "Uning argumenti asosli va **mantiqiy** edi."
+    },
+    {
+      "word": "Doimiy",
+      "translation": "Permanent",
+      "example": "Ular vaqtinchalik yechim emas, balki **doimiy** yechim izlamoqda."
+    },
+    {
+      "word": "Oqilona, Tushunarli",
+      "translation": "Sensible",
+      "example": "Qishda issiq palto kiyish **oqilona** g'oya."
+    },
+    {
+      "word": "Qiyin, Kuchli, Qattiq",
+      "translation": "Tough",
+      "example": "U o'z karerasi yo'lida **qiyin** qarorga duch keldi."
+    },
+    {
+      "word": "Aniq, To‘g‘ri",
+      "translation": "Accurate",
+      "example": "Ob-havo prognozi hayratlanarli darajada **aniq** edi."
+    },
+    {
+      "word": "Mos, To‘g‘ri",
+      "translation": "Appropriate",
+      "example": "Iltimos, kiyimingiz vaziyatga **mos** ekanligiga ishonch hosil qiling."
+    },
+    {
+      "word": "Izchil",
+      "translation": "Consistent",
+      "example": "U mavsum davomida **izchil** ijrochi bo'lib kelmoqda."
+    },
+    {
+      "word": "Ataylab qilingan",
+      "translation": "Deliberate",
+      "example": "Xato tasodifiy emas edi; bu **ataylab qilingan** tanlov edi."
+    },
+    {
+      "word": "Samarali",
+      "translation": "Efficient",
+      "example": "Yangi tizim eskisiga qaraganda ancha **samarali**."
+    },
+    {
+      "word": "Muqarrar",
+      "translation": "Inevitable",
+      "example": "Fasllarning almashishi **muqarrar**dir."
+    },
+    {
+      "word": "Oqilona",
+      "translation": "Reasonable",
+      "example": "Chiptaning narxi juda **oqilona** edi."
+    },
+    {
+      "word": "Yetarli",
+      "translation": "Sufficient",
+      "example": "Ishni tugatish uchun bizda **yetarli** vaqt bor."
+    },
+    {
+      "word": "Vaqtinchalik",
+      "translation": "Temporary",
+      "example": "Uning vizasi faqat **vaqtinchalik**; u uni tez orada yangilashi kerak."
+    },
+    {
+      "word": "Keng Tarqalgan",
+      "translation": "Widespread",
+      "example": "Iqtisodiyot yaxshilanadi, degan **keng tarqalgan** e'tiqod bor."
+    }
+  ]
+}
