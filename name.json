@@ -1,0 +1,312 @@
+{
+  "NOUNS (Otlar)": [
+    {
+      "word": "Accusation",
+      "translation": "ayblov",
+      "example": "He denied the serious **accusation** of fraud made against him."
+    },
+    {
+      "word": "Assistance",
+      "translation": "yordam, ko‘mak",
+      "example": "Please contact us if you require any technical **assistance**."
+    },
+    {
+      "word": "Breakthrough",
+      "translation": "katta yutuq",
+      "example": "Scientists achieved a major **breakthrough** in cancer research."
+    },
+    {
+      "word": "Comparison",
+      "translation": "taqqoslash",
+      "example": "A **comparison** between the two phones shows many similarities."
+    },
+    {
+      "word": "Conflict",
+      "translation": "mojaro",
+      "example": "They tried to avoid **conflict** by discussing the issue calmly."
+    },
+    {
+      "word": "Decline",
+      "translation": "pasayish",
+      "example": "There has been a sharp **decline** in the sales of print newspapers."
+    },
+    {
+      "word": "Disaster",
+      "translation": "falokat",
+      "example": "The oil spill was an environmental **disaster**."
+    },
+    {
+      "word": "Permission",
+      "translation": "ruxsat",
+      "example": "You need written **permission** to film inside the museum."
+    },
+    {
+      "word": "Reaction",
+      "translation": "reaksiya",
+      "example": "Her immediate **reaction** to the news was a look of shock."
+    },
+    {
+      "word": "Strategy",
+      "translation": "strategiya",
+      "example": "The company developed a new **strategy** to enter the Asian market."
+    },
+    {
+      "word": "Achievement",
+      "translation": "yutuq",
+      "example": "Finishing the marathon was a great **achievement** for her."
+    },
+    {
+      "word": "Alternatives",
+      "translation": "muqobillar",
+      "example": "Since the bus strike, we have been looking for travel **alternatives**."
+    },
+    {
+      "word": "Attempt",
+      "translation": "urinish",
+      "example": "He made an **attempt** to climb the mountain without a guide."
+    },
+    {
+      "word": "Authority",
+      "translation": "hokimiyat, vakolat",
+      "example": "The teacher had the **authority** to assign extra homework."
+    },
+    {
+      "word": "Circumstances",
+      "translation": "sharoitlar",
+      "example": "Under the current **circumstances**, we cannot travel abroad."
+    },
+    {
+      "word": "Commitment",
+      "translation": "sadoqat, majburiyat",
+      "example": "Marriage requires a serious **commitment** from both partners."
+    },
+    {
+      "word": "Complaint",
+      "translation": "shikoyat",
+      "example": "We received a **complaint** about the noise from the neighbors."
+    },
+    {
+      "word": "Contribution",
+      "translation": "hissa, qo‘shiq",
+      "example": "Every member made a valuable **contribution** to the final report."
+    },
+    {
+      "word": "Dilemma",
+      "translation": "ikkilanma, muammo",
+      "example": "She faced a moral **dilemma** about telling the truth."
+    },
+    {
+      "word": "Distribution",
+      "translation": "taqsimot",
+      "example": "The **distribution** of food aid was managed by a local charity."
+    }
+  ],
+  "VERBS (Advanced)": [
+    {
+      "word": "Acknowledge",
+      "translation": "tan olmoq",
+      "example": "The manager should **acknowledge** the hard work of his team."
+    },
+    {
+      "word": "Approve",
+      "translation": "ma'qullamoq",
+      "example": "The council voted to **approve** the new budget plan."
+    },
+    {
+      "word": "Capture",
+      "translation": "qo‘lga olmoq, egallamoq",
+      "example": "The photographer managed to **capture** the moment perfectly."
+    },
+    {
+      "word": "Collapse",
+      "translation": "qulamoq",
+      "example": "The old bridge might **collapse** under the heavy rain."
+    },
+    {
+      "word": "Contribute",
+      "translation": "hissa qo‘shmoq",
+      "example": "Everyone should **contribute** to keeping the area clean."
+    },
+    {
+      "word": "Decrease",
+      "translation": "kamaymoq",
+      "example": "The company plans to **decrease** its energy consumption."
+    },
+    {
+      "word": "Encounter",
+      "translation": "duch kelmoq",
+      "example": "We might **encounter** some delays due to the traffic."
+    },
+    {
+      "word": "Identify",
+      "translation": "aniqlamoq, tanimoq",
+      "example": "The police were unable to **identify** the mysterious object."
+    },
+    {
+      "word": "Object",
+      "translation": "e'tiroz bildirmoq",
+      "example": "I must **object** to the way you are handling this matter."
+    },
+    {
+      "word": "Summarize",
+      "translation": "qisqacha bayon qilmoq",
+      "example": "Can you **summarize** the main points of the chapter for me?"
+    }
+  ],
+  "VERBS (B2-C1)": [
+    {
+      "word": "Assume",
+      "translation": "taxmin qilmoq",
+      "example": "Don't **assume** they are guilty until you have the facts."
+    },
+    {
+      "word": "Affect",
+      "translation": "ta’sir qilmoq",
+      "example": "The weather will **affect** our travel plans."
+    },
+    {
+      "word": "Maintain",
+      "translation": "saqlamoq, davom ettirmoq",
+      "example": "It is difficult to **maintain** a healthy diet while travelling."
+    },
+    {
+      "word": "Require",
+      "translation": "talab qilmoq",
+      "example": "This job will **require** strong computer skills."
+    },
+    {
+      "word": "Persuade",
+      "translation": "ko‘ndirmoq",
+      "example": "She tried to **persuade** him to change his mind."
+    },
+    {
+      "word": "Expand",
+      "translation": "kengaymoq",
+      "example": "The company plans to **expand** its business to Europe."
+    },
+    {
+      "word": "Reject",
+      "translation": "rad etmoq",
+      "example": "The committee decided to **reject** the proposal immediately."
+    },
+    {
+      "word": "Evaluate",
+      "translation": "baholamoq",
+      "example": "We need to **evaluate** the risks before starting the project."
+    },
+    {
+      "word": "Generate",
+      "translation": "yaratmoq, hosil qilmoq",
+      "example": "The wind farms **generate** enough power for the entire city."
+    },
+    {
+      "word": "Regulate",
+      "translation": "boshqarmoq, nazorat qilmoq",
+      "example": "New laws will **regulate** the use of personal data online."
+    }
+  ],
+  "ADJECTIVES (Advanced)": [
+    {
+      "word": "Ambitious",
+      "translation": "maqsadli, katta orzuli",
+      "example": "She is an **ambitious** student determined to succeed."
+    },
+    {
+      "word": "Beneficial",
+      "translation": "foydali",
+      "example": "Daily exercise is **beneficial** to your health."
+    },
+    {
+      "word": "Complex",
+      "translation": "murakkab",
+      "example": "This is a very **complex** problem that requires careful thought."
+    },
+    {
+      "word": "Delighted",
+      "translation": "hursand, mamnun",
+      "example": "They were **delighted** to hear the good news."
+    },
+    {
+      "word": "Enormous",
+      "translation": "juda katta",
+      "example": "The museum housed an **enormous** collection of ancient artifacts."
+    },
+    {
+      "word": "Incredible",
+      "translation": "ishonib bo‘lmaydigan",
+      "example": "The view from the top of the mountain was **incredible**."
+    },
+    {
+      "word": "Logical",
+      "translation": "mantiqiy",
+      "example": "His argument was sound and **logical**."
+    },
+    {
+      "word": "Permanent",
+      "translation": "doimiy",
+      "example": "They are looking for a **permanent** solution, not a temporary fix."
+    },
+    {
+      "word": "Sensible",
+      "translation": "oqilona, tushunarli",
+      "example": "Wearing a warm coat in winter is a **sensible** idea."
+    },
+    {
+      "word": "Tough",
+      "translation": "qiyin, kuchli, qattiq",
+      "example": "He faced a **tough** decision about his career path."
+    }
+  ],
+  "ADJECTIVES (B2-C1)": [
+    {
+      "word": "Accurate",
+      "translation": "aniq, to‘g‘ri",
+      "example": "The weather forecast was surprisingly **accurate**."
+    },
+    {
+      "word": "Appropriate",
+      "translation": "mos, to‘g‘ri",
+      "example": "Please ensure your clothing is **appropriate** for the occasion."
+    },
+    {
+      "word": "Consistent",
+      "translation": "izchil",
+      "example": "She has been a **consistent** performer throughout the season."
+    },
+    {
+      "word": "Deliberate",
+      "translation": "ataylab qilingan",
+      "example": "The mistake was not accidental; it was a **deliberate** choice."
+    },
+    {
+      "word": "Efficient",
+      "translation": "samarali",
+      "example": "The new system is much more **efficient** than the old one."
+    },
+    {
+      "word": "Inevitable",
+      "translation": "muqarrar",
+      "example": "The change in seasons is **inevitable**."
+    },
+    {
+      "word": "Reasonable",
+      "translation": "oqilona",
+      "example": "The price of the ticket was quite **reasonable**."
+    },
+    {
+      "word": "Sufficient",
+      "translation": "yetarli",
+      "example": "We have **sufficient** time to finish the work."
+    },
+    {
+      "word": "Temporary",
+      "translation": "vaqtinchalik",
+      "example": "His visa is only **temporary**; he must renew it soon."
+    },
+    {
+      "word": "Widespread",
+      "translation": "keng tarqalgan",
+      "example": "There is a **widespread** belief that the economy will improve."
+    }
+  ]
+}
